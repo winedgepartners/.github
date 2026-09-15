@@ -2,7 +2,7 @@
 
 # WinEdge Partners
 
-### Enterprise AI Engineering • AI-Driven SDLC • Enterprise Application Modernization • Technology Consulting
+### Enterprise AI Engineering • Human-Governed SDLC • Enterprise Application Modernization • Technology Consulting
 
 Engineering the next generation of enterprise software through governed AI software engineering.
 
@@ -14,9 +14,9 @@ Engineering the next generation of enterprise software through governed AI softw
 
 # About
 
-WinEdge Partners is a Canadian technology consulting company specializing in enterprise software engineering, AI-driven software delivery, and application modernization.
+WinEdge Partners is a Canadian technology consulting company specializing in enterprise software engineering, AI-assisted and human-governed software delivery, and application modernization.
 
-Rather than using AI as a productivity tool, we have built an engineering methodology where AI becomes the primary software producer while experienced engineers provide architecture, governance, quality assurance, and technical leadership throughout the Software Development Lifecycle.
+Rather than using AI only as a productivity tool, we have built an engineering methodology where AI becomes the primary software producer while experienced engineers provide architecture, governance, quality assurance, and technical leadership throughout the Software Development Lifecycle.
 
 This approach enables faster delivery without compromising engineering discipline, maintainability, security, or long-term ownership.
 
@@ -25,7 +25,7 @@ This approach enables faster delivery without compromising engineering disciplin
 # What We Do
 
 - Enterprise AI Engineering
-- AI-Driven Software Development Lifecycle (AI-Driven SDLC)
+- Human-Governed Software Development Lifecycle
 - Enterprise Application Modernization
 - Software Architecture
 - Technology Consulting
@@ -44,7 +44,7 @@ We believe enterprise software should be:
 - Continuously validated
 - Maintainable for the long term
 
-Our AI-Driven SDLC combines multiple AI systems, engineering standards, governance controls, technical reviews, and human expertise to deliver enterprise-grade software at scale.
+Our Human-Governed SDLC combines multiple AI systems, engineering standards, governance controls, technical reviews, and human expertise to deliver enterprise-grade software at scale.
 
 We do not replace software engineering with AI.
 
